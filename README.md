@@ -11,8 +11,10 @@ This is my simple oh my zsh theme based on robbyrussell default theme.
   $ cd chloe-theme-master && cp chloe.zsh-theme ~/.oh-my-zsh/themes/
 </code>
 
-Change in .zshrc:
-ZSH_THEME = "chloe"
+<p>Change in .zshrc:</p>
+<code>
+  ZSH_THEME = "chloe"
+</code>
 
 <code>
   $ source .zshrc
