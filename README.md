@@ -22,9 +22,14 @@ $ cd chloe-theme-master && cp chloe.zsh-theme ~/.oh-my-zsh/themes/
 <code>
   $ source .zshrc
 </code>
+
 <p></p>
 
 ![alt text](assets/screen.png)
+
+<p></p>
+
+![alt text](assets/screen-git.png)
 
 I recomend use the JetBrains Mono font:
 [Get it here](https://www.jetbrains.com/lp/mono/)
