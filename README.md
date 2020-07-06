@@ -2,7 +2,9 @@
 
 This is my simple oh my zsh theme based on robbyrussell default theme.
 
-To install 
+<p>To install </p>
+
+
 <code>
   $ git clone https://github.com/BrunoMoreno/chloe-theme.git
 
