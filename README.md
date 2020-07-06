@@ -12,8 +12,10 @@ This is my simple oh my zsh theme based on robbyrussell default theme.
 <code>
 $ cd chloe-theme-master && cp chloe.zsh-theme ~/.oh-my-zsh/themes/
 </code>
+<p></p>
 
 <p>Change in .zshrc:</p>
+<p></p>
 <code>
   ZSH_THEME = "chloe"
 </code>
@@ -25,10 +27,12 @@ $ cd chloe-theme-master && cp chloe.zsh-theme ~/.oh-my-zsh/themes/
 
 <p></p>
 
+#### See the result:
 ![alt text](assets/screen.png)
 
 <p></p>
 
+#### In a git branch:
 ![alt text](assets/screen-git.png)
 
 I recomend use the JetBrains Mono font:
