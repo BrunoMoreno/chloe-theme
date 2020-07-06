@@ -7,8 +7,10 @@ This is my simple oh my zsh theme based on robbyrussell default theme.
 
 <code>
   $ git clone https://github.com/BrunoMoreno/chloe-theme.git
-
-  $ cd chloe-theme-master && cp chloe.zsh-theme ~/.oh-my-zsh/themes/
+</code>
+<p></p>
+<code>
+$ cd chloe-theme-master && cp chloe.zsh-theme ~/.oh-my-zsh/themes/
 </code>
 
 <p>Change in .zshrc:</p>
@@ -20,6 +22,11 @@ This is my simple oh my zsh theme based on robbyrussell default theme.
 <code>
   $ source .zshrc
 </code>
+<p></p>
 
+![alt text](assets/screen.png)
+
+I recomend use the JetBrains Mono font:
+[Get it here](https://www.jetbrains.com/lp/mono/)
 
 <p>Enjoy It!</p>
