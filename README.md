@@ -16,6 +16,7 @@ This is my simple oh my zsh theme based on robbyrussell default theme.
   ZSH_THEME = "chloe"
 </code>
 
+<p>Now reload your terminal:</p>
 <code>
   $ source .zshrc
 </code>
