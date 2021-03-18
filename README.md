@@ -17,7 +17,7 @@ $ cd chloe-theme && cp chloe.zsh-theme ~/.oh-my-zsh/themes/
 <p>Change in .zshrc:</p>
 <p></p>
 <code>
-  ZSH_THEME = "chloe"
+  ZSH_THEME="chloe"
 </code>
 
 <p>Now reload your terminal:</p>
