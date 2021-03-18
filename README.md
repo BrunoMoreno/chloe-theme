@@ -10,7 +10,7 @@ This is my simple oh my zsh theme based on robbyrussell default theme.
 </code>
 <p></p>
 <code>
-$ cd chloe-theme-master && cp chloe.zsh-theme ~/.oh-my-zsh/themes/
+$ cd chloe-theme && cp chloe.zsh-theme ~/.oh-my-zsh/themes/
 </code>
 <p></p>
 
